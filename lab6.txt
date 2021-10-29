@@ -1,1 +1,2 @@
 hello this is lab 6
+second part
